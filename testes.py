@@ -2,7 +2,7 @@ import unittest;
 from aluno import AlunoClass; 
 from turma import TurmaClass;
 from conexao import ConexaoClass;
-import mongomock; #Projeto: https://github.com/mongomock/mongomock
+import mongomock; 
 
 
 class alunoTest(unittest.TestCase):
